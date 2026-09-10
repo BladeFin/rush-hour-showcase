@@ -1,6 +1,6 @@
 # Rush Hour
 
-Recruitment management software for fraternities. A full-stack PWA that centralizes rush operations—from prospect pipelines and calendar sync to real-time voting during deliberation meetings.
+Recruitment management software for fraternities. A full-stack PWA that centralizes rush operations - from prospect pipelines and calendar sync to real-time voting during deliberation meetings.
 
 **[See Website Here](https://fratrush.vercel.app)**
 
