@@ -9,8 +9,12 @@ Recruitment management software for fraternities. A full-stack PWA that centrali
 Fraternity rush traditionally runs on scattered tools: spreadsheets, slide decks, text threads. Rushees fall through the cracks. Events double-book. There's no single source of truth. Rush Hour consolidates everything into one clean platform—currently in active use by real chapters.
 
 ## Screenshots
-
-![Rushee List](screenshots/rushees.png) ![Rushee Details](screenshots/rushee_details.png) ![Schedule View](screenshots/schedule.png) ![Permissions Settings](screenshots/permissions.png)
+| | |
+|---|---|
+| <img src="screenshots/rushees.png" width="400"> | <img src="screenshots/rushee_details.png" width="400"> |
+| *Rushees* | *Rushee Details* |
+| <img src="screenshots/schedule.png" width="400"> | <img src="screenshots/permissions.png" width="400"> |
+| *Schedule View* | *Permissions Settings* |
 
 ## Features
 
