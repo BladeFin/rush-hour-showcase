@@ -2,7 +2,7 @@
 
 Recruitment management software for fraternities. A full-stack PWA that centralizes rush operations—from prospect pipelines and calendar sync to real-time voting during deliberation meetings.
 
-**[Live Demo](https://fratrush.vercel.app)**
+**[See Website Here](https://fratrush.vercel.app)**
 
 ## Overview
 
