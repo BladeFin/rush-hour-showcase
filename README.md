@@ -10,10 +10,11 @@ Fraternity rush traditionally runs on scattered tools: spreadsheets, slide decks
 
 ## Screenshots
 <p>
-  <img src="screenshots/rushees.png" width="19%">
-  <img src="screenshots/rushee_details.png" width="19%">
-  <img src="screenshots/schedule.png" width="19%">
-  <img src="screenshots/permissions.png" width="39%">
+  <img src="screenshots/rushees.png" width="29%">
+  <img src="screenshots/rushee_details.png" width="29%">
+  <br>
+  <img src="screenshots/schedule.png" width="29%">
+  <img src="screenshots/permissions.png" width="59%">
 </p>
 ## Features
 
