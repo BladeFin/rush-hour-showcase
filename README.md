@@ -16,6 +16,7 @@ Fraternity rush traditionally runs on scattered tools: spreadsheets, slide decks
   <br>
   <img src="screenshots/permissions.png" width="89%">
 </p>
+
 ## Features
 
 - **Rushee Pipeline** — CSV import/export. Track attributes (major, grad year, etc.) and apply dynamic statuses.
